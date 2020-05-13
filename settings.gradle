@@ -1,0 +1,2 @@
+rootProject.name='IC10'
+include ':app'
